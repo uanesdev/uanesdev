@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**uan-dev/uan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eae guys, me chamo Uan! 🫡
+<img src = "banner.gif" width = "200px" align = "right">
 
-Here are some ideas to get you started:
+    Sou estudante de Sistemas de Informações, atualmente com 18 anos venho querendo 
+    aprender mais sobre esse mundo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - 👨‍💻 BSI - URFPE(UAST)
+    - 💻 Pendendo para Back-End
+    - 🌐 Gosto de desenvolvimento WEB
+    - 🐍 Desenvolvedor Iniciante Python
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uanfranciscodev@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uaanes/)
+
