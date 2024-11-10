@@ -9,6 +9,7 @@
     - 💻 Pendendo para Back-End
     - 🌐 Gosto de desenvolvimento WEB
     - 🐍 Desenvolvedor Iniciante Python
+    - 🍵 Iniciando em Java
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
