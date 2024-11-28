@@ -1,14 +1,10 @@
-
-## Me chamo Uan! 🫡
 <img src = "banner.gif" width = "200px" align = "right">
 
-    Sou estudante de Sistemas de Informações, atualmente com 18 anos venho querendo 
-    aprender mais sobre esse mundo!
+👋╺╸Opa, me chamo Uan<br>
+🤖╺╸Sou o desenvolvedor da [Ayla](https://discord.gg/pUQ3tkr8ZF)<br>
+🎓╺╸Cursando Sistemas de Informação<br>
+🌱╺╸Conhecimento básico sobre programação<br>
 
-    - 👨‍💻 BSI - URFPE(UAST)
-    - 💻 Desenvolvedor Back-End
-    - 🍵 Desenvolvedor Iniciante Java
-    - 🐍 Desenvolvedor Iniciante Python
 
 [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
