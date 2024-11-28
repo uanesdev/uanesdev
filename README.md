@@ -4,7 +4,8 @@
 🤖╺╸Sou o desenvolvedor da [Ayla](https://discord.gg/pUQ3tkr8ZF)<br>
 🎓╺╸Cursando Sistemas de Informação<br>
 🌱╺╸Conhecimento básico sobre programação<br>
-
+💻╺╸Desenvolvedor inicinte Back-End Java/Python<br>
+<img src = "typescript.png" width = "20px" align = "center">╺╸Linguagem de desenvolvimento da Ayla
 
 [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
