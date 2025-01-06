@@ -1,7 +1,6 @@
 <img src = "banner.gif" width = "200px" align = "right">
 
 👋╺╸Opa, me chamo Uan<br>
-🤖╺╸Sou o desenvolvedor da [Ayla](https://discord.gg/pUQ3tkr8ZF)<br>
 🎓╺╸Cursando Sistemas de Informação<br>
 🌱╺╸Conhecimento básico sobre programação<br>
 💻╺╸Desenvolvedor iniciante Back-End Java/Python<br>
