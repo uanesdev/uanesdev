@@ -4,7 +4,6 @@
 🎓╺╸Cursando Sistemas de Informação<br>
 🌱╺╸Conhecimento básico sobre programação<br>
 💻╺╸Desenvolvedor iniciante Back-End Java/Python<br>
-<img src = "typescript.png" width = "20px" align = "center">╺╸Linguagem de desenvolvimento da Ayla
 
 [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
