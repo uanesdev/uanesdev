@@ -1,9 +1,9 @@
 <img src = "banner.gif" width = "200px" align = "right">
 
-👋╺╸Opa, me chamo Uan<br>
-🎓╺╸Cursando Sistemas de Informação<br>
-🌱╺╸Conhecimento básico sobre programação<br>
-💻╺╸Desenvolvedor iniciante Back-End Java/Python<br>
+👋╺╸Hey, my name is Uan<br>
+🎓╺╸Studying Information Systems<br>
+🌱╺╸Basic knowledge of programming<br>
+💻╺╸Beginner Back-End Java/Python developer<br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
