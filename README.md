@@ -10,6 +10,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uaanes/)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uanesdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uanesdev&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uanesdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
 </div>
