@@ -1,7 +1,8 @@
 👋╺╸Hey, my name is Uan<br>
 🎓╺╸Studying Information Systems<br>
 🌱╺╸Basic knowledge of programming<br>
-💻╺╸Beginner Back-End Java/Python developer<br>
+💻╺╸Beginner Back-End Java developer<br>
+🍃╺╸Studying Spring Boot<br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
 
